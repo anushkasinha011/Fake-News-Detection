@@ -1,0 +1,17 @@
+{
+  "best_model": "Passive Aggressive",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.9831202046035805,
+      "precision": 0.9781140861466822,
+      "recall": 0.99103562160887,
+      "f1": 0.9845324584016873
+    },
+    "Passive Aggressive": {
+      "accuracy": 0.9914322250639386,
+      "precision": 0.9896713615023475,
+      "recall": 0.9945741920264213,
+      "f1": 0.9921167196140722
+    }
+  }
+}

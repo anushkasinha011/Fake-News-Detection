@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.DS_Store
+# Large dataset files (download from Kaggle instead)
+dataset/*.csv
+# Trained model files (recreate with train_model.py)
+models/*.joblib
